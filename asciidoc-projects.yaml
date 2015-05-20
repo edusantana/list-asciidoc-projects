@@ -1,0 +1,72 @@
+"Frugalware Linux":
+  site: http://www.proconx.com
+  titles:
+    -
+      title: MBRG-300 Modbus Router/ Gateway User manual
+      type: manual
+      tags: Informatics
+      lang: en
+      evidence: none
+      medias:
+        -
+          type: pdf
+          url: http://www.proconx.com/assets/files/products/modg100/UMMBRG300-1101.pdf
+"Tomek Kaczanowski":
+  site: http://practicalunittesting.com
+  titles:
+    -
+      title: "Practical Unit Testing"
+      type: book
+      tags: Informatics, Unit Testing, Programming
+      lang: en
+      evidence: https://groups.google.com/group/asciidoc/browse_frm/thread/4ba13926262efa23
+      medias:
+        -
+          type: print
+          url: http://practicalunittesting.com/index.php
+
+"Matt Neuburg":
+  site: http://www.apeth.net/matt/
+  titles:
+    -
+      title: "Programming iOS"
+      type: book
+      tags: Informatics, Programming, iOS
+      lang: en
+      evidence: http://www.apeth.net/matt/iosbooktoolchain.html
+      medias:
+        -
+          type: print
+          url: http://oreilly.com/catalog/9781449397296
+
+"Dean Wampler and Alex Payne":
+  site: http://oreilly.com/catalog/9780596155957/index.html
+  titles:
+    -
+      title: Programming Scala
+      type: book
+      tags: Informatics, Programming, Scala
+      lang: en
+      evidence: http://groups.google.com/group/asciidoc/browse_frm/thread/449f1199343f0e27
+      medias:
+        -
+          type: print
+          url: http://oreilly.com/catalog/9780596155957/index.html
+
+# The Neo4j graph database project uses Asciidoc, and the output is published here: http://docs.neo4j.org/. The build process includes live tested source code snippets and is described here(http://groups.google.com/group/asciidoc/browse_thread/thread/49d570062fd3ff52).
+
+"Neo4j":
+  site: http://docs.neo4j.org
+  titles:
+    -
+      title: Programming Scala
+      type: book
+      tags: Informatics, Programming, Scala
+      lang: en
+      evidence: http://groups.google.com/group/asciidoc/browse_thread/thread/49d570062fd3ff52
+      medias:
+        -
+          type: site
+          url: http://neo4j.com/docs/milestone/preface.html
+          source: https://github.com/neo4j/neo4j/blob/b2b690dbfb4950a6f7b3e0bb41a90419859d89a8/manual/contents/src/preface/preface.asciidoc
+
